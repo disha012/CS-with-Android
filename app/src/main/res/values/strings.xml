@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Scarne\'s Dice</string>
+    <string name="dice_face">Dice Face</string>
+    <string name="user_winner">User Wins</string>
+    <string name="computer_wins">Computer Wins</string>
+    <string name="abc">Scarne\’s Dice is a turn based dice game where players score points by rolling a die and then:\n
+
+if they roll a 1, score no points and lose their turn\n
+if they roll a 2 to 6:\n
+add the rolled value to their points\n
+choose to either reroll or keep their score and end their turn\n
+The winner is the first player that reaches (or exceeds) 100 points.</string>
+</resources>
